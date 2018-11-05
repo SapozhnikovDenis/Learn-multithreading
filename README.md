@@ -1,2 +1,2 @@
-# Learn_multithreading
+# Learn-multithreading
 I created this project for learn multithreading 
